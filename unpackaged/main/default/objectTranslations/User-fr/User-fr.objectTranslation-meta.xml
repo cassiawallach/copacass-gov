@@ -4,4 +4,16 @@
         <label><!-- PersonalInfo_EPIM --></label>
         <name>PersonalInfo_EPIM</name>
     </fieldSets>
+    
+    
+    
+    
+    
+    
+    
+    
+    <webLinks>
+        <label><!-- Select_Theme --></label>
+        <name>SBQQ__Select_Theme</name>
+    </webLinks>
 </CustomObjectTranslation>

@@ -23,4 +23,22 @@
             <section>Shipping and Billing Information</section>
         </sections>
     </layouts>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <validationRules>
+        <errorMessage><!-- Can&apos;t contract the order. Activate the order and try again. --></errorMessage>
+        <name>SBQQ__Cannot_Contract_New_Order</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- EditOrderProducts --></label>
+        <name>SBQQ__EditOrderProducts</name>
+    </webLinks>
 </CustomObjectTranslation>
